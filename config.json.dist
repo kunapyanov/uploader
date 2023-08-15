@@ -1,0 +1,15 @@
+{
+  "projects": [
+    {
+      "name": "Project name",
+      "localPath": "/home/user/site",
+      "remotePath": "/var/wwww/public_html",
+      "ftpConfig": {
+        "host": "domain.name",
+        "username": "username",
+        "password": "password",
+        "port": 21
+      }
+    }
+  ]
+}
